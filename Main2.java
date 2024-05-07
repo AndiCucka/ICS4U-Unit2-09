@@ -1,7 +1,7 @@
 /*
 * This is the main code that runs with the Vehicle Class.
 *
-* @author  Curtis Edwards
+* @author  Andi Cucka
 * @version 1.0
 * @since   2024-04-20
 */
