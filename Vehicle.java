@@ -9,7 +9,7 @@
 /**
 * This is the Vehicle class.
 */
-public class Vehicle {
+public abstract class Vehicle {
     /**
      * numberOfTires.
     */
