@@ -1,7 +1,7 @@
 /*
 * This program runs with the vehicle class.
 *
-* @author  Curtis Edwards
+* @author  Andi Cucka
 * @version 1.0
 * @since   2024-04-20
 */
